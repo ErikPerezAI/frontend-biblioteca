@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.erikperez.biblioteca",
+      "sha256_cert_fingerprints": [
+        "C4:9F:2C:7F:B0:4B:3E:10:5A:BA:57:5B:A5:21:19:4F:DD:E5:98:11:6C:D4:3E:45:83:4B:4E:40:4F:4E:76:46"
+      ]
+    }
+  }
+]
